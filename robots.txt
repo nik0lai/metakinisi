@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nik0lai.github.io//metakinisi/sitemap.xml
+Sitemap: https://nik0lai.github.io/metakinisi/metakinisi/sitemap.xml
